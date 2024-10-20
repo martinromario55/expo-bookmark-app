@@ -1,36 +1,21 @@
-import {
-  FlatList,
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
-} from 'react-native'
-import itemList from '@/data/item.json'
-import Item from '@/components/Item'
-import { Link } from 'expo-router'
+import { View, Text, Image, StyleSheet } from 'react-native'
+import React from 'react'
+import { ItemType } from '@/types/itemType'
 
-export default function Index() {
+const Item = ({ item }: { item: ItemType }) => {
   return (
-    <View
-      style={{
-        flex: 1,
-        marginTop: 10,
-      }}
-    >
-      <FlatList
-        data={itemList}
-        keyExtractor={(_, index) => `item-${index}`}
-        renderItem={({ item }) => (
-          <Link href={`/listing/${item.id}`} asChild>
-            <TouchableOpacity>
-              <Item item={item} />
-            </TouchableOpacity>
-          </Link>
-        )}
-      />
+    <View style={styles.itemContainer}>
+      <Image source={{ uri: item.image }} style={styles.itemImg} />
+      <View style={styles.itemInfo}>
+        <Text style={styles.itemCategory}>{item.category}</Text>
+        <Text style={styles.itemTitle}>{item.name}</Text>
+        <Text style={styles.itemSourceName}>{item.location}</Text>
+      </View>
     </View>
   )
 }
+
+export default Item
 
 const styles = StyleSheet.create({
   container: {

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Tropical Paradise Resort",
+    "image": "https://images.unsplash.com/photo-1725381780207-cb9df540bd53?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A luxurious resort with beautiful beaches, spa, and dining options.",
+    "rating": 4.5,
+    "price": "500",
+    "duration": "3",
+    "location": "Pacific Ocean",
+    "category": "Beaches"
+  },
+  {
+    "id": "2",
+    "name": "Elegant Villa",
+    "image": "https://images.unsplash.com/photo-1705344038927-9bd2e72de501?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A stylish villa with private garden, spa, and dining options.",
+    "rating": 4.8,
+    "price": "300",
+    "duration": "2",
+    "location": "Mountainous region",
+    "category": "Villas"
+  },
+  {
+    "id": "3",
+    "name": "Cozy Vacation Home",
+    "image": "https://plus.unsplash.com/premium_photo-1675622664532-3e3b0ce3b7b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A cozy vacation home with private bathroom, spa, and dining options.",
+    "rating": 4.2,
+    "price": "250",
+    "duration": "1",
+    "location": "Desert region",
+    "category": "Vacation Homes"
+  },
+  {
+    "id": "4",
+    "name": "Romantic Ranch",
+    "image": "https://images.unsplash.com/photo-1709464973748-15ca6633f436?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A romantic ranch with private pool, spa, and dining options.",
+    "rating": 4.7,
+    "price": "400",
+    "duration": "4",
+    "location": "Rural region",
+    "category": "Ranches"
+  },
+  {
+    "id": "5",
+    "name": "Nature-Love Cottage",
+    "image": "https://images.unsplash.com/photo-1636619773834-c7e0762ddfe1?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A nature-loving cottage with private garden, spa, and dining options.",
+    "rating": 4.9,
+    "price": "350",
+    "duration": "3",
+    "location": "Mountainous region",
+    "category": "Cottages"
+  },
+  {
+    "id": "6",
+    "name": "Sunset Palace",
+    "image": "https://images.unsplash.com/photo-1714466330772-097c1f9c43cb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A luxurious palace with beautiful beaches, spa, and dining options.",
+    "rating": 4.6,
+    "price": "600",
+    "duration": "5",
+    "location": "Pacific Ocean",
+    "category": "Palaces"
+  },
+  {
+    "id": "7",
+    "name": "Tranquil Townhouse",
+    "image": "https://plus.unsplash.com/premium_photo-1663040271283-bd044a62da1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A tranquil townhouse with private bathroom, spa, and dining options.",
+    "rating": 4.3,
+    "price": "200",
+    "duration": "1",
+    "location": "Desert region",
+    "category": "Townhouses"
+  },
+  {
+    "id": "8",
+    "name": "Beachside Bungalow",
+    "image": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?q=80&w=2110&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A beachside bungalow with private pool, spa, and dining options.",
+    "rating": 4.5,
+    "price": "300",
+    "duration": "2",
+    "location": "Rural region",
+    "category": "Bungalows"
+  },
+  {
+    "id": "9",
+    "name": "Cozy Apartments",
+    "image": "https://images.unsplash.com/photo-1524473994769-c1bbbf30e944?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A cozy apartments with private bathroom, spa, and dining options.",
+    "rating": 4.8,
+    "price": "250",
+    "duration": "1",
+    "location": "Desert region",
+    "category": "Apartments"
+  },
+  {
+    "id": "10",
+    "name": "Sunrise Villa",
+    "image": "https://plus.unsplash.com/premium_photo-1721654789105-43ff4bb0a486?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A sunrise villa with private garden, spa, and dining options.",
+    "rating": 4.9,
+    "price": "350",
+    "duration": "3",
+    "location": "Mountainous region",
+    "category": "Villas"
+  }
+]
